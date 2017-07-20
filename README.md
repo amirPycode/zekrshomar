@@ -35,6 +35,11 @@ python zho.pyc
 "sudo"
 ```
 This should be your Token received from Botfather.
+```
+برای مدریت 
+/panel
+را ارسال کنید
+```
 
 
 
